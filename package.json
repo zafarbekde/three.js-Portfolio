@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
-    "@react-three/drei": "^9.56.28",
+    "@react-three/drei": "^9.74.6",
     "@react-three/fiber": "^8.11.5",
     "@react-three/postprocessing": "^2.7.0",
     "prop-types": "^15.8.1",
